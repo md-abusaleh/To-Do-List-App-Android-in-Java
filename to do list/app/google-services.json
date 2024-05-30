@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898402344875",
+    "project_id": "task-remainer-app",
+    "storage_bucket": "task-remainer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898402344875:android:25c0fa0303ccbde3387cee",
+        "android_client_info": {
+          "package_name": "com.example.taskremainerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6zVNS_1fIAcr1SKISg8Ntl9uU2Wxwno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
